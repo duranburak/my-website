@@ -1,0 +1,50 @@
+htbody {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ff0707;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    font-weight: 900;
+    font-style: inherit;
+
+}
+
+button {
+    color:#56a100;
+    background-color: rgb(238, 255, 0);
+    margin: 0;
+    padding: 5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: #56a100;
+    size: 0cqb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+}
+h2 {
+    color: #ff0707;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    font-weight: 900;
+    font-style: inherit;
+
+}
+h3 {
+    color: #ff0707;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    font-weight: 900;
+    font-style: inherit;
+
+}
