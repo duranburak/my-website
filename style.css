@@ -17,21 +17,22 @@ h1 {
 }
 
 button {
-    color:#56a100;
-    background-color: rgb(238, 255, 0);
+    color:#000000;
+    background-color: rgba(0, 174, 255, 0.842);
     margin: 0;
-    padding: 5;
+    padding: 10px 20px;
     font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
 }
 
 p {
-    color: #56a100;
+    color: #000000;
     size: 0cqb;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font: bold;
 }
 h2 {
-    color: #ff0707;
+    color: #ff0000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     font-weight: bold;
@@ -40,7 +41,7 @@ h2 {
 
 }
 h3 {
-    color: #ff0707;
+    color: #a85454;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     font-weight: bold;
